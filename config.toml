@@ -1,4 +1,4 @@
-baseURL = "https://watarineko.github.io/blog"
+baseURL = "https://watarineko.github.io"
 languageCode = "en-us"
 title = "狂っちまった悲しみに"
 theme = "hugo-theme-anubis"
